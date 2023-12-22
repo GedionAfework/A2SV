@@ -11,3 +11,12 @@ class Solution:
             else:
                 lists.append(str(n))
         return(lists)
+    adfldsakjf;aeifj'advm' \
+                    'fhakejhd' \
+                    'pafjhqleuifhd' \
+                    'adfhelfaudfh' \
+                    'djfahlerjha' \
+                    'adjhfael;jhfad' \
+                    'faerhsjfa'roeia
+    vdfygeufha'e' \
+              'aifhra;eirhf'

@@ -19,4 +19,10 @@ def gradingStudents(grades):
                 print(grade)
 n = int(input(""))
 gradingStudents(grades)
+afl;dkjfa
+djfkeaj
+dfe;fhad
+'pfelfje;lkfah'ekf
+dfja;efha
+peh;a
 
